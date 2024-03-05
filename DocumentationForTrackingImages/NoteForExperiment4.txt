@@ -1,0 +1,7 @@
+At experiment 4, plate 4 something apparently went wrong and
+you re-started the analysis for that plate because the timing is different for that plate.
+
+Usually at experiments, all the plates ave same hour savings so we differentiate them from their analysis ID.
+At Experiment 4, plate 1,2 and 3 are same. But Plate 4 has different time savings. Be aware.
+
+For more information about the time savings of the experiments, see TimeInformationForEveryExperiment.txt file.

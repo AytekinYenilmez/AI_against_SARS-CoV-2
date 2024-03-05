@@ -1,0 +1,11 @@
+An example key for an image is: R_13_1100_927_B5-1-green....
+After the first "_", the day information comes. This is the real day of the real date when the analysis was done by the incucyte.
+To be short, I did not include month information because day and time combined with analysis id is enough to differentiate.
+After the second "_", the hour information comes. After the third "_", analysis id comes. Lastly, the plate map coordinate comes.
+
+So, from this, we can understand the image with key R_13_1100_927_B5-1-green shows:
+- Experiment 7 (Because we know experiment 7 started on 11.08.2020 at 17:00)
+- The last day of that experiment (from 11th to 13th)
+- Hour 11:00 (Last one is 14:00, so just before last imaging.)
+- Analysis id 927 shows us this image is from plate 3 of experiment 7.
+- B5 shows us that this is the NMI knockout. (See path->  D:\AytekinKarstenAI\BiomedicalImageProcessingVisualize_Plot\PlateMapsWithTheirAnalysisID)
